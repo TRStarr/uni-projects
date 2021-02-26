@@ -1,0 +1,1 @@
+After obtaining a list of English words from the alphabet, I decided to create the game called hangman, where both the player guesses the computers word and the computer guesses the players word. Creating the algorithm was fun, but once one was completed and fully tested it made the other half of the game easier! 

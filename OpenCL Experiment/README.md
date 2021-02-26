@@ -1,0 +1,1 @@
+For my dissertation I wanted to do exploit the GPU for all its potential, by using OpenCL I wanted to find out if physics collision detection and response was more efficient on the CPU or the GPU. This was done by using OpenCL. I self-learnt OpenCL from scratch, from setting it up to, sending data to the hardware.

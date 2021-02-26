@@ -1,0 +1,1 @@
+For this project, I attempted to make a boring AI demo of pathfinding into a game that required the user's quick thought process, otherwise the AI would catch up them. Introducing the demo with a short paragraph that some paths are only one way, from the usually two way system, helped prove to me that the pathfinding algorithms worked. 
